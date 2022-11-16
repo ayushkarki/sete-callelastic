@@ -1,9 +1,5 @@
-module.exports = ["7ed519bc-f57f-4325-8268-5bea6e52c784.otf_p",
-"09307ae5-9447-47d2-8bfb-78dec29bf7bd.ttf_p",
-"164774",
-"164776",
-"164778",
-"164781",
-"164783",
-"164785"
+module.exports = [
+    'productid1',
+    'productid2',
+    'productid3'
 ]
